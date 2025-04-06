@@ -1,0 +1,20 @@
+{
+  "name": "GrumpyShiba Token List",
+  "logoURI": "https://teal-efficient-beaver-393.mypinata.cloud/ipfs/bafybeie2bgkxdxnphdemtulc66yaffhg6ktqtj57scxg65tapqykf7eqzi",
+  "tags": {},
+  "timestamp": "2025-04-06T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "C8KjuUNGivQNmDoCX1y6jjB9PaJkPBystztd7ZVGubzN",
+      "symbol": "GSHIBA",
+      "name": "GrumpyShiba Coin",
+      "decimals": 6,
+      "logoURI": "https://teal-efficient-beaver-393.mypinata.cloud/ipfs/bafybeie2bgkxdxnphdemtulc66yaffhg6ktqtj57scxg65tapqykf7eqzi",
+      "extensions": {
+        "website": "https://grumpyshibacoin.netlify.app/",
+        "description": "The angriest meme coin on Solana 💢🐶"
+      }
+    }
+  ]
+}
